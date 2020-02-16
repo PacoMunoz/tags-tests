@@ -9,6 +9,8 @@
     <packaging>jar</packaging>
     <name>Jhipster_feature12</name>
 
+    <!-- comentario sobre el pom.xml -->
+    
     <repositories>
         <!-- jhipster-needle-maven-repository -->
     </repositories>
