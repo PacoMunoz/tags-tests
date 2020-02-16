@@ -1,5 +1,6 @@
 # jhipster
 
+// esta es la feature 16
 Tests words for taggings propouses:wq
 
 This application was generated using JHipster 6.6.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.6.0](https://www.jhipster.tech/documentation-archive/v6.6.0).
